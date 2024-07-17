@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/project_gmt/static/css/main.8e726d8e.css",
+    "main.js": "/project_gmt/static/js/main.6bb6cf17.js",
+    "static/js/453.7c6068aa.chunk.js": "/project_gmt/static/js/453.7c6068aa.chunk.js",
+    "static/media/1697168742.jpg": "/project_gmt/static/media/1697168742.a4c16a978858d06b210b.jpg",
+    "static/media/image 8.jpg": "/project_gmt/static/media/image 8.461d8937391f13ab62fb.jpg",
+    "static/media/image 39.png": "/project_gmt/static/media/image 39.8f7497fdef7d1a722a89.png",
+    "static/media/burger.jpg": "/project_gmt/static/media/burger.f6b0a4788fbbe8d81d56.jpg",
+    "static/media/google-logo-9808.png": "/project_gmt/static/media/google-logo-9808.0590aaf0fe36e23dcc8c.png",
+    "static/media/Free Photo _ Exploding burger.jpeg": "/project_gmt/static/media/Free Photo _ Exploding burger.1d2d6be668a499422d63.jpeg",
+    "index.html": "/project_gmt/index.html",
+    "main.8e726d8e.css.map": "/project_gmt/static/css/main.8e726d8e.css.map",
+    "main.6bb6cf17.js.map": "/project_gmt/static/js/main.6bb6cf17.js.map",
+    "453.7c6068aa.chunk.js.map": "/project_gmt/static/js/453.7c6068aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e726d8e.css",
+    "static/js/main.6bb6cf17.js"
+  ]
+}
